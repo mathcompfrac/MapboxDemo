@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapboxDemo</string>
+    <string name="hint_where_to">Where to?</string>
+</resources>
